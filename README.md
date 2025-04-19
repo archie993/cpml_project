@@ -1,0 +1,1 @@
+This repository contains the prpoject for the diploma course of IIIT Hyderabad. It is a Parkinsons detection application taking input as the voice of the user and provide statistical representations of likelihood of having or developing parkinsons on the basis of analysis done on the voice with respect to parameters such as Jitter,shimmer,etc. 
